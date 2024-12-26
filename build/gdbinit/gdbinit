@@ -1,0 +1,2 @@
+source /home/toby/Dokumente/programming/cpp/esp32/test/pio_test/build/gdbinit/symbols
+source /home/toby/Dokumente/programming/cpp/esp32/test/pio_test/build/gdbinit/connect
