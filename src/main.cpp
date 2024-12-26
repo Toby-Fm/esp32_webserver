@@ -8,6 +8,9 @@
 #include "esp_log.h"
 #include "variables.hpp"
 
+//#define WIFI_SSID "wlan name"
+//#define WIFI_PASS "wlan passwort"
+
 // HTTP GET Handler
 esp_err_t hello_get_handler(httpd_req_t *req) {
     const char* resp_str = "Deine Mutter!";
